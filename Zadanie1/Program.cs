@@ -1,9 +1,4 @@
-﻿var people = new List<string>() { "Tom", "Bob", "Sam" };
-
-string firstPerson = people[0];
-Console.WriteLine(people.Count);
-
-
+﻿
 var person = new Person("Anras", 18, "St");
 var person1 = new Person("Danil", 18, "St");
 var person2 = new Person("nikita", 19, "St");
