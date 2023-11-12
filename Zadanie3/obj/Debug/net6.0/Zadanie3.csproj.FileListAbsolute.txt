@@ -1,0 +1,14 @@
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\bin\Debug\net6.0\Zadanie3.exe
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\bin\Debug\net6.0\Zadanie3.deps.json
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\bin\Debug\net6.0\Zadanie3.runtimeconfig.json
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\bin\Debug\net6.0\Zadanie3.dll
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\bin\Debug\net6.0\Zadanie3.pdb
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfoInputs.cache
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfo.cs
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.dll
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\refint\Zadanie3.dll
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.pdb
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\Zadanie3.genruntimeconfig.cache
+C:\Users\jnvhi\AndriyYanchik\Zadanie3\obj\Debug\net6.0\ref\Zadanie3.dll
